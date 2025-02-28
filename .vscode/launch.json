@@ -9,7 +9,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\User\\img\\OneDrive\\Desktop\\Web Dev Class\\about-me-pedromendoza1\\Adding HTML, Images, Text\\img\\index.html"
+            "file": "c:\\Users\\User\\OneDrive\\Desktop\\Web Dev Class\\About Me\\Adding HTML, Images, Text\\img\\index.html"
         }
     ]
 }
