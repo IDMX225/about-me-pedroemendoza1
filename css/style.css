@@ -29,15 +29,41 @@ header {
 
 }
 
+/*Hero Section*/
+
 #hero img {
     width: 400px
 }
+
+/*Bio Section*/
 
 #bio {
     text-align: center;
 }
 
+/*Hobbies Section*/
+
 #hobbies ul li {
     list-style-type: none;
     text-decoration: none;
+}
+
+/*Gallery Section*/
+
+#gallery {
+    
+    border: 2px solid #6B5B36;
+}
+
+#gallery img {
+
+    max-width: 100%;
+
+}
+
+#gallery figure {
+
+    text-align: center;
+
+
 }
