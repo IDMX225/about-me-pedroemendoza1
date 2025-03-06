@@ -1,0 +1,33 @@
+body {
+    font-family:Roboto;
+    background-color: #83A9F5;
+    color: #EBA710;
+    
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Almendra SC";
+    font-size: 50pt;
+    
+}
+
+header {
+    text-align: center;
+}
+
+#hero, footer {
+    color: #343B4A;
+    border: 3px solid #6B5B36;
+    background-color: #AD7C0E;
+    text-align: center;
+    padding: 10px;
+
+}
+
+#hero img {
+    width: 400px
+}
+
+#bio {
+    text-align: center;
+}
