@@ -8,7 +8,12 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: "Almendra SC";
     font-size: 50pt;
+    text-align: Center;
     
+}
+h1 {
+    font-size: 40pt;
+
 }
 
 header {
@@ -30,4 +35,9 @@ header {
 
 #bio {
     text-align: center;
+}
+
+#hobbies ul li {
+    list-style-type: none;
+    text-decoration: none;
 }
