@@ -163,5 +163,42 @@ color: black;
 
         display: block;
     }
-       
+    #myvideo {
+
+        max-width: 100%;
+    }
+
+    figcaption {
+
+        font-size: 12px;
+    }
+
+}
+
+
+/*Video Section*/ 
+
+
+figure {
+
+    text-align: center;
+    font-size: 40pt;
+    max-width: 100%;
+    margin: 20xp auto;
+    border: 2px solid #6B5B36;
+    margin-bottom: 2rem;
+}
+
+#myvideo {
+
+    width: 100%;
+    max-width: 560px;
+    border: 2px solid #6B5B36;
+    margin-bottom: 2rem;
+}
+
+figcaption {
+    font-size: 50px;
+    color: #666;
+    margin-top: 20px;
 }
