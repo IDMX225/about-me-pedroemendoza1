@@ -202,3 +202,10 @@ figcaption {
     color: #666;
     margin-top: 20px;
 }
+
+/* Contact Form */
+
+#FormElements {
+
+  display: grid;
+}
