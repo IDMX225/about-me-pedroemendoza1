@@ -23,9 +23,14 @@ The porpuse of this blog is to explore the impact of video games in mental healt
 **#2E4141** – Dark Teal R:18 G:25 B:25 #2E4141
 
 ## Citations 
-Beautiful places in Japan website - https://mai-ko.com/travel/japan/honeymoon-in-japan/honeymoon-in-japan-tips/
+- Beautiful places in Japan website - https://mai-ko.com/travel/japan/honeymoon-in-japan/honeymoon-in-japan-tips/
 
--Wordle - https://www.nytimes.com/games/wordle/index.html
+- Wordle - https://www.nytimes.com/games/wordle/index.html
 
+-Rvcc Facebook: https://www.facebook.com/RaritanValleyCC
+
+-Rvcc Instagram: https://www.instagram.com/raritanvalleycc/
+
+-Rvcc Twitter: https://twitter.com/RaritanValleyCC
 ## Licence
 This project is licensed under the MIT License.
