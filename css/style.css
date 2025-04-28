@@ -71,7 +71,7 @@ display: block;
     
     border: 2px solid #6B5B36;
     margin-bottom: 2rem;
-    
+    padding: 2rem;   
 }
 
 #gallery img {
@@ -83,13 +83,16 @@ display: block;
 #gallery figure {
 
     text-align: center;
+    margin-bottom: 2rem;
 }
 
 #gallery img:hover {
     transform: scale(1.05);
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4)
 
 }
+
+
 /*Literature*/
 
 #lit {
