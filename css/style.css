@@ -95,35 +95,6 @@ display: block;
 
 /*Blog Section*/
 
-#lit {
-
-    border: 2px solid #6B5B36;
-    margin-bottom: 2rem;
-}
-
-#lit div {
-
-    padding: 2rem;
-    max-width: 40rem;
-    margin: 0 auto; 
-}
-
-#lit div p {
-
-    padding: 0.3rem 0;
-    clear: both;
-}
-
-/*Dropcaps*/
-
-#lit div p:first-letter {
-
-    color: black;
-    float: left;
-    font-size: 3em;
-    padding: .25em;
-    line-height: .65;
-    border: 1px solid black;
 
 }
 
