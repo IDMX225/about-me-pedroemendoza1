@@ -50,3 +50,7 @@ footer citations:
 -Rvcc Twitter: https://twitter.com/RaritanValleyCC
 ## Licence
 This project is licensed under the MIT License.
+
+## Nav var 
+
+The navigation bar is responsive includes a mobile hamburger menu. It is implemented using a hidden checkbox input and a label styled as a hamburger icon. On smaller screens (less than 768px), the hamburger icon appears and toggles the visibility of the navigation links.
