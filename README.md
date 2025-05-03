@@ -23,7 +23,23 @@ The porpuse of this blog is to explore the impact of video games in mental healt
 **#2E4141** – Dark Teal R:18 G:25 B:25 #2E4141
 
 ## Citations 
+
+Blog Article citation: 
+
+- "The health Effects of too much gaming" https://www.health.harvard.edu/blog/the-health-effects-of-too-much-gaming-2020122221645
+
+
+-"Bad & Good Effects, 25+ Positive & Negative Effects of Video Games" https://www.raisesmartkid.com/3-to-6-years-old/4-articles/34-the-good-and-bad-effects-of-video-games#google_vignette
+
+-"Video Games and Mental Health: Surprisong Ally" https://unric.org/en/video-games-and-mental-health-a-surprising-ally/
+
+
+Bio citations: 
+
 - Beautiful places in Japan website - https://mai-ko.com/travel/japan/honeymoon-in-japan/honeymoon-in-japan-tips/
+
+
+footer citations: 
 
 - Wordle - https://www.nytimes.com/games/wordle/index.html
 
