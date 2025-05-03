@@ -106,37 +106,33 @@ such that no text wraps
         justify-content: space-between;
 
     }
-    .hamburger {
-        display: none;
+    #hamburger {
 
-    }
-
-    .menu-toggle {
         display: none;
     }
 
-   
+    .menu-toggle { 
+        display: none;
+    }
+
+    
+
 }
 
-/*Hamburger menu*/
 
 .menu-toggle { 
-
     display: none;
+
 }
 
 .hamburger { 
-
-    display: none ;
-    font-size: 2rem;
-    cursor: pointer;
+    display: block;
     color: white;
     padding: 0.5rem;
-
+    margin-left: auto;
 }
 
-.navbar-links { 
-
-    display: block;
-
+#menu-toggle:checked + .navbar-links {
+    display: flex;
+    text-align: right;
 }
