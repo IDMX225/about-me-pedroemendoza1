@@ -19,10 +19,14 @@ h1 {
 
 h2 {
     margin: .1em;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #343B4A;
 }
 
 header {
     text-align: center;
+
 }
 
 #hero, footer {
@@ -54,13 +58,15 @@ list-style: none;
 display: block;
 
 
+
 }
 
 #hobbies {
+    display: flex;
     text-align: center;
-    
     flex-direction: column;
     align-items: center;
+    color:  #AB5F33
 
 }
 
@@ -71,6 +77,11 @@ display: block;
     
     border: 2px solid #6B5B36;
     margin-bottom: 2rem;
+    padding: 2rem;   
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #343B4A;
+    text-align: center;
 }
 
 #gallery img {
@@ -82,40 +93,22 @@ display: block;
 #gallery figure {
 
     text-align: center;
-}
-/*Literature*/
-
-#lit {
-
-    border: 2px solid #6B5B36;
     margin-bottom: 2rem;
+    color: #343B4A;
 }
 
-#lit div {
-
-    padding: 2rem;
-    max-width: 40rem;
-    margin: 0 auto; 
-}
-
-#lit div p {
-
-    padding: 0.3rem 0;
-    clear: both;
-}
-
-/*Dropcaps*/
-
-#lit div p:first-letter {
-
-    color: black;
-    float: left;
-    font-size: 3em;
-    padding: .25em;
-    line-height: .65;
-    border: 1px solid black;
+#gallery img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4)
 
 }
+
+#gallery { 
+    color: #343B4A;  
+}
+
+
+
 
 /*tablet size*/
 
@@ -201,7 +194,7 @@ figure {
 
 figcaption {
     font-size: 50px;
-    color: #666;
+    color: #343B4A; 
     margin-top: 20px;
 }
 
@@ -262,5 +255,127 @@ legend {
     max-width: 400px;
     width: 50%;
     justify-self: center;
+}
+
+footer a { 
+    color: #343B4A;
+    margin: 0 0.5rem;
+}
+
+footer a:hover {
+    text-decoration:none;
+    transform: scale(1.05);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4)
+}
+
+
+/*Blog Section*/
+
+#lit {
+
+    padding: 2rem;
+    text-align: center;
 
 }
+
+#lit h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #343B4A;
+    
+}
+
+#lit h3 {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    color: #343B4A;
+
+}
+
+/*Grid layout*/
+
+.grid-layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    margin-top: 1rem;
+}
+
+/*Column styling*/
+
+
+.column-left, .column-center {
+    margin-top: 1rem;
+
+}
+
+/*Images and overlay text*/
+
+.image-block { 
+    position: relative;
+    margin: 1rem 0;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.image-block img {
+
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.overlay-text {
+
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.95rem;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.6);
+
+}
+
+/*link styling*/
+
+#lit a {
+
+    color: black;
+    text-decoration: none;
+
+}
+
+#lit a:hover {
+
+    text-decoration: underline;
+
+}
+
+/*List */
+
+#lit ul {
+
+    list-style-type: disc;
+    padding-left: 1.5rem;
+}
+
+/* Responsive media query */
+
+@media (min-width: 768px) {
+    
+    .grid-layout {
+        grid-template-columns: 1fr;
+    }
+
+    .column-left, .column-center {
+
+        margin-top: 0;
+    }
+}
+
+ul, ol {
+    list-style: none;
+}
+
