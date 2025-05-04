@@ -48,6 +48,11 @@ header {
 
 #bio {
     text-align: center;
+    padding: 3rem;
+    margin: 2rem;
+    border: 3px solid #6B5B36;
+    border-radius: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 /*Hobbies Section*/
@@ -67,6 +72,13 @@ display: block;
     flex-direction: column;
     align-items: center;
     color:  #AB5F33
+
+    text-align: center;
+    padding: 3rem;
+    margin: 2rem;
+    border: 3px solid #6B5B36;
+    border-radius: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 
 }
 
@@ -379,3 +391,12 @@ ul, ol {
     list-style: none;
 }
 
+#lit {
+
+    text-align: center;
+    padding: 3rem;
+    margin: 2rem;
+    border: 3px solid #6B5B36;
+    border-radius: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
